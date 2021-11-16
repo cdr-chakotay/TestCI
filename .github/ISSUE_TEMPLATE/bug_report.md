@@ -11,7 +11,7 @@ assignees: ''
 A clear and concise description of what the bug is.
 
 ## First Reported:
-Date and who reported this. eg. 14.05.2021 by florian@transloadoit.com
+Date and who reported this. eg. 14.05.2021 by florian@transloadit.com
 
 ## Ticket Link(s):
 Intercom link

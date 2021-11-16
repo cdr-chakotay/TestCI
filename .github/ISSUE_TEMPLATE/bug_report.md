@@ -1,28 +1,26 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Create a report to help us improve 
 title: "[BUG] brief bug description"
 labels: bug
 assignees: ''
 
 ---
 
-## Bug Description
+## Bug Description:
 A clear and concise description of what the bug is.
 
-## First Reported
+## First Reported:
+date
 
-## Ticket Link(s)
+## Ticket Link(s):
+Intercom link
 
 ## Example setup for error reproduction:
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+Steps to reproduce the behavior or Assembly Instructions in a code block or file
 
-## Files provided by customer
+## Files provided by customer:
+Link, Attachement or non.
 
-**Additional context**
+# Additional context:
 Add any other context about the problem here.

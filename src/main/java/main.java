@@ -16,6 +16,7 @@ public class main {
     public static void main(String[] args) {
         main m1 = new main(5.0);
         m1.printNum();
+        System.out.println("Main method has completed its run");
     }
 
     public double getNumber(){
